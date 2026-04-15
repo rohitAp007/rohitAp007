@@ -1,15 +1,16 @@
 #  Hi, I'm Rohit Parsode
 
-**B.Tech CSE Final Year Student | Mobile Engineer | AI Engineer | Backend Developer**
+ **B.Tech CSE Final Year Student | Mobile Application Developer | AI Engineer | Backend Developer**
 
 ---
 
 ## 🧠 About Me
 
 * 🎓 Final-year Computer Science student
+* 📱 Specialized in **Mobile Application Development (Flutter)**
 * 💡 Passionate about **AI, Backend Systems & Real-world Products**
-* ⚙️ Building scalable apps using **FastAPI, Flutter & AI (RAG)**
-* 🚀 Currently working on **AI-powered chatbot systems**
+* ⚙️ Building scalable apps using **Flutter, FastAPI & AI (RAG)**
+* 🚀 Currently working on **AI-powered mobile + backend systems**
 * 🤝 Open to **internships / full-time opportunities**
 
 ---
@@ -24,28 +25,32 @@
 
 ### 🔹 Flutter Mobile Applications
 
-* Developed cross-platform apps with clean UI/UX
-* Integrated APIs and real-time features
+* 📱 Developed **cross-platform mobile apps** with clean UI/UX
+* 🔗 Integrated REST APIs, authentication & real-time features
+* ⚡ Focused on **performance, responsiveness & scalability**
 
 ### 🔹 Backend Systems
 
-* Designed REST APIs with authentication & database integration
-* Focus on performance and scalability
+* Designed **secure REST APIs** with authentication & DB integration
+* Built systems optimized for **speed and scalability**
 
 ---
 
 ## 🛠️ Tech Stack
 
+### 📱 Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+
 ### 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### ⚙️ Frameworks & Tools
+### ⚙️ Backend & AI
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
 
@@ -59,24 +64,24 @@
 
 ## 📊 GitHub Stats
 
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=radical)
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitAp007\&show_icons=true\&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitAp007\&layout=compact\&theme=radical)
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](your-link)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge\&logo=gmail)](mailto:yourmail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/rohit-p-2110171b9/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge\&logo=gmail)](mailto:rohitlucid.dev@gmail.com)
 
 ---
 
 ## ⚡ What Makes Me Different
 
-* 🚀 I build **real-world systems**, not just tutorials
-* 🧠 Strong focus on **AI + Backend integration**
-* ⚙️ Able to take a product from **idea → deployment**
+* 📱 Strong in **Mobile + Backend + AI combination** (rare skillset)
+* 🚀 Build complete products from **UI → Backend → AI integration**
+* ⚙️ Focus on **real-world scalable applications**
 
 ---
 
