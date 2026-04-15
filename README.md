@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Rohit Parsode
+#  Hi, I'm Rohit Parsode
 
-🚀 **B.Tech CSE Final Year Student | AI Engineer | Backend Developer**
+**B.Tech CSE Final Year Student | AI Engineer | Backend Developer**
 
 ---
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### 🔹 AI Chatbot (RAG + FastAPI + Supabase)
 
