@@ -1,6 +1,6 @@
 #  Hi, I'm Rohit Parsode
 
-**B.Tech CSE Final Year Student | AI Engineer | Backend Developer**
+**B.Tech CSE Final Year Student | Mobile Engineer | AI Engineer | Backend Developer**
 
 ---
 
