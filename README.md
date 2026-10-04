@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 * 🎓 Final-year Computer Science student
 * 📱 Specialized in **Mobile Application Development (Flutter)**
@@ -17,28 +17,28 @@
 
 ##  Projects
 
-### 🔹 AI Chatbot (RAG + FastAPI + Supabase)
+### AI Chatbot (RAG + FastAPI + Supabase)
 
 * Built a production-ready chatbot using **Retrieval-Augmented Generation**
 * Integrated **Supabase + Pinecone** for vector storage
 * Designed scalable backend APIs using **FastAPI**
 
-### 🔹 Flutter Mobile Applications
+###  Flutter Mobile Applications
 
 * 📱 Developed **cross-platform mobile apps** with clean UI/UX
 * 🔗 Integrated REST APIs, authentication & real-time features
 * ⚡ Focused on **performance, responsiveness & scalability**
 
-### 🔹 Backend Systems
+###  Backend Systems
 
 * Designed **secure REST APIs** with authentication & DB integration
 * Built systems optimized for **speed and scalability**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 📱 Mobile Development
+###  Mobile Development
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
@@ -54,7 +54,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
 
-### 🧰 Tools
+###  Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code)
@@ -62,7 +62,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitAp007\&show_icons=true\&theme=radical)
 
@@ -70,7 +70,7 @@
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/rohit-p-2110171b9/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge\&logo=gmail)](mailto:rohitlucid.dev@gmail.com)
